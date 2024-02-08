@@ -48,7 +48,3 @@ From the model evaluation, we can see that out of 3 machine learning algorithms,
 3. Make your changes and commit them using `git commit -m "Add your commit message here"`.
 4. Push your changes to your fork using `git push origin feature/your-feature-name`.
 5. Open a pull request to the main repository.
-
-## Credits
-
-This project was created by [KaziRamisaRifa](https://github.com/kaziramisarifa). An Standalone Machine Learning Project From Scratch.
